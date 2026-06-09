@@ -25,10 +25,10 @@ Currently studying **ECE (IoT)** at IIIT Nagpur (2023–2027), CGPA 8.54.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🤖 Product Launch Intelligence Agent](https://github.com/Pragyan-Stank/Product-Launch-Intelligence-Agent) | 3-agent LLM system synthesizing 20–40 web signals into exec-ready competitive reports | Agno, Groq, Firecrawl, Streamlit |
+| [🤖 Product Launch Intelligence Agent](https://github.com/Pragyan-Stank/Product-Launch-Intelligence-Agent) | 3-agent LLM system synthesizing 20–40 web signals into exec-ready competitive reports | LangGraph, Groq, Firecrawl, Streamlit |
 | [🌊 JalRakshak.AI](https://github.com/Pragyan-Stank/JalRakshak-AI) | Marine debris detection & trajectory mapping from Sentinel-2 satellite imagery | U-Net, FastAPI, React, Monte Carlo |
 | [📊 Customer Churn MLOps Pipeline](https://github.com/Pragyan-Stank/Customer-Churn-Prediction-End-to-End-MLOps-Pipeline) | End-to-end MLOps — DVC 6-stage pipeline, Optuna tuning, 0.96 ROC-AUC, AWS ECS deploy | XGBoost, MLflow, DVC, Docker, AWS |
-| [🔒 AI Safety Compliance System](https://github.com/Pragyan-Stank/AI-Powered-Safety-Compliance-System) | Real-time safety compliance detection | TypeScript, CV |
+| [🔒 AI Safety Compliance System](https://github.com/Pragyan-Stank/AI-Powered-Safety-Compliance-System) | Real-time safety compliance detection | Yolo, CV, transfer learning |
 
 ---
 
