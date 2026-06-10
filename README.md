@@ -17,7 +17,7 @@
 
 I work at the intersection of **LLM orchestration**, **computer vision**, and **MLOps** — turning research-grade ideas into systems that actually run in production. Most of my work involves multi-agent pipelines, scalable inference backends, and geospatial/CV models.
 
-Currently studying **ECE (IoT)** at IIIT Nagpur (2023–2027), CGPA 8.54.
+Currently studying **ECE (IoT)** at IIIT Nagpur (2023–2027).
 
 ---
 
